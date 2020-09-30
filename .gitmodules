@@ -1,0 +1,9 @@
+[submodule "lang/php/awesome-php"]
+	path = lang/php/awesome-php
+	url = https://github.com/ziadoz/awesome-php
+[submodule "lang/csharp/awesome-csharp"]
+	path = lang/csharp/awesome-csharp
+	url = https://github.com/danperor/awesome-csharp
+[submodule "framework/symfo/awesome-symfony"]
+	path = framework/symfo/awesome-symfony
+	url = https://github.com/sitepoint-editors/awesome-symfony
